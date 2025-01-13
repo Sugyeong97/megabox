@@ -24,10 +24,13 @@
   <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/github-fdfdfd?style=for-the-badge&logo=github&logoColor=black" />
+
 ---
+
 ## 개요
 
 2024.08.12 ~ 2024.10.12
+
 - 주말반 웹개발 영화관 클론 코딩
 
 ---
@@ -41,11 +44,14 @@
 - 정의석 Schedule
 
 ---
+
 ## 프로세스 흐름도
+
 ![image](https://github.com/user-attachments/assets/a89129ed-d279-42a6-8420-d46ca1aec3a8)
 
 ---
-## 주요기능
-JWT를 이용한 회원가입/로그인 기능
-JPA 사용
 
+## 주요기능
+
+JWT를 이용한 회원가입/로그인 기능
+JPA 사용함
